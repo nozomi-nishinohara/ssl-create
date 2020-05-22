@@ -1,0 +1,9 @@
+commonName: test.example.commonName
+organizationalUnit:
+  - developer
+organization:
+  - "BellData,Inc,"
+country:
+  - JP
+dnsNames:
+  - "dev.belldata.co.jp"
